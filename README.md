@@ -41,5 +41,17 @@
 - risk analysis
   - where are the most risky spots, thinking of how the application can crash
     - document formating, pdf reading and creating etc.
-- 
+  - design tests for those risky spots
+
+### How to write test cases
+
+- choonse meaningful names and be specific
+- the names should contain the action or the aim of the test case
+  - ex: create a new Risk Event
+- keep the test steps clear and concise
+  - the tests steps should include the data and information on how to execute the test
+  - the spteps in the test cases should be detailed and to the point, so new testers can easily execute the test with ease
+- ensure 100% coverage
+  - cover all the verification points for feature under test
+  - write test cases for all software requirements mentioned in the specification document
 
