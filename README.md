@@ -21,5 +21,13 @@
 ### 81-100% We are required to do assemply testing
 - need to test how applications function between them
 
-## Manual testing
-- 
+#### Manual testing
+- cmmi ???
+
+### How to write test cases
+
+- Requirements - analyzing specifications -- can it be tested? 
+   - this is the first step. Understanding the business is very important
+   - ask for clarifications if needed (not from devs): moa or moe
+- Use cases 
+- Design documents
