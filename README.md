@@ -51,10 +51,26 @@
 - keep the test steps clear and concise
   - the tests steps should include the data and information on how to execute the test
   - the spteps in the test cases should be detailed and to the point, so new testers can easily execute the test with ease
-- ensure 100% coverage
+- ensure 100% coverage of the requierements
   - cover all the verification points for feature under test
   - write test cases for all software requirements mentioned in the specification document
 
 - be specific with how you got to that poin (push that specific button, write the speicific text, get the speicifc error) **should be easy to reproduce by someone else**
 
-- 
+- **Be creative**
+  - test a variety of conditions that the software will be expected to handle
+  - The test case must be able to comprehensively test the software module with almost all possible combinations of main conditions
+
+- Avoid assumptions
+  - do not miss steps in the test cases
+  - can produc inaccurate tests
+  
+- use brainsorming when definig the test cases
+  - after reaidng the requirements, write as many scenarios you can write within 5 minutes
+  - beneficial because:
+    - you don't focus on writin the details of the test cases
+    - you can quickly see if you have any questions regarding the business (un-clear specifications)
+    
+### Exercise
+
+  
