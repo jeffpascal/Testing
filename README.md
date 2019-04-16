@@ -55,3 +55,6 @@
   - cover all the verification points for feature under test
   - write test cases for all software requirements mentioned in the specification document
 
+- be specific with how you got to that poin (push that specific button, write the speicific text, get the speicifc error) **should be easy to reproduce by someone else**
+
+- 
