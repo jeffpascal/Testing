@@ -72,5 +72,5 @@
     - you can quickly see if you have any questions regarding the business (un-clear specifications)
     
 ### Exercise
-
+  
   
