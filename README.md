@@ -13,6 +13,7 @@
 - Regression tests **very important**
    
 ###### Waterfall - 3month, in 3 months application is done
+
 ###### Agile - release app in stages, defined or not, new functionality/slice
 
 ### 66% Acceptance tests  - primary functionality
@@ -72,5 +73,30 @@
     - you can quickly see if you have any questions regarding the business (un-clear specifications)
     
 ### Exercise
+
+### Requirements Analysis
+- Analyze all the documents: FEX, FCU, User Stories, Chart Graphique, mock-ups, UI guidelines, technical specifications etc-> this will help you understand th application from a functional point of view
+
+- Look for:
+	- Completneness
+	- Clearness
+	- Correctness
+	- Consistency
+	- Testability
+- Ask for clarifications
+- Ask yourself about:
+	- Function ( what the product does)
+	- Operations (how will it be used)
+	- Data (what is processes0
+	- Structure (what the product is)
+
+### ALM
+- ask for rights to the projects
+	- test plan
+	- test lab
+	- requirements
+	- management
+	- defects
+- create test plan using excel template
 
   
