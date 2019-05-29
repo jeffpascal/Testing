@@ -73,7 +73,6 @@
     - you can quickly see if you have any questions regarding the business (un-clear specifications)
     
 ### Exercise
-<<<<<<< HEAD
 
 ### Requirements Analysis
 - Analyze all the documents: FEX, FCU, User Stories, Chart Graphique, mock-ups, UI guidelines, technical specifications etc-> this will help you understand th application from a functional point of view
@@ -100,7 +99,35 @@
 	- defects
 - create test plan using excel template
 
-=======
-  
->>>>>>> branch 'master' of https://github.com/jeffpascal/Testing.git
-  
+# Testing course 2
+
+- afla structura aplicatiei
+
+# agile
+- pre delivery test
+- post delivery test
+
+- always test overflow, null, empty value
+- cucumber - feature files TORESEARCH
+- a se cere access la tot ce trebe alm/ FULL ACCES
+- sa am cont admin
+
+# Alm
+
+- install hp ALM add-in in Excel
+
+# Denumire foldere foarte important ALM
+- Test evidence is imporant
+	- print screens
+	- fisier word
+
+- gasesti un bug
+	- fa pasii pana la bug
+	- am facut urmatorii pasi, am completat aia
+	- fa un print screen
+	
+# TODO
+- completeaza excelul cu sprint total amount of bugs in this spring, corrected bugs this spring, si trimitel la raluca
+- luati buguri in sprint
+
+- convis clientul sa ia si bugurile in considerare in sprint
