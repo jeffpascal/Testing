@@ -128,4 +128,6 @@
 	
 # TODO
 - completeaza excelul cu sprint total amount of bugs in this spring, corrected bugs this spring, si trimitel la raluca
-- luati buguri in spring
+- luati buguri in sprint
+
+- convis clientul sa ia si bugurile in considerare in sprint
