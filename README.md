@@ -73,7 +73,6 @@
     - you can quickly see if you have any questions regarding the business (un-clear specifications)
     
 ### Exercise
-<<<<<<< HEAD
 
 ### Requirements Analysis
 - Analyze all the documents: FEX, FCU, User Stories, Chart Graphique, mock-ups, UI guidelines, technical specifications etc-> this will help you understand th application from a functional point of view
@@ -100,7 +99,7 @@
 	- defects
 - create test plan using excel template
 
-=======
-  
->>>>>>> branch 'master' of https://github.com/jeffpascal/Testing.git
-  
+#### Testing course 2
+
+- afla structura aplicatiei
+
