@@ -111,3 +111,21 @@
 - cucumber - feature files TORESEARCH
 - a se cere access la tot ce trebe alm/ FULL ACCES
 - sa am cont admin
+
+# Alm
+
+- install hp ALM add-in in Excel
+
+# Denumire foldere foarte important ALM
+- Test evidence is imporant
+	- print screens
+	- fisier word
+
+- gasesti un bug
+	- fa pasii pana la bug
+	- am facut urmatorii pasi, am completat aia
+	- fa un print screen
+	
+# TODO
+- completeaza excelul cu sprint total amount of bugs in this spring, corrected bugs this spring, si trimitel la raluca
+- 
