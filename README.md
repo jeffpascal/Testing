@@ -99,7 +99,13 @@
 	- defects
 - create test plan using excel template
 
-#### Testing course 2
+# Testing course 2
 
 - afla structura aplicatiei
+
+# agile
+- pre delivery test
+- post delivery test
+
+- always test overflow, null, empty value
 
