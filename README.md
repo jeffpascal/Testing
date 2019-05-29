@@ -108,4 +108,6 @@
 - post delivery test
 
 - always test overflow, null, empty value
-
+- cucumber - feature files TORESEARCH
+- a se cere access la tot ce trebe alm/ FULL ACCES
+- sa am cont admin
